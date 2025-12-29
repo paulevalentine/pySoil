@@ -1,0 +1,7 @@
+pyproject.toml
+src/bouss.py
+src/pySoil.egg-info/PKG-INFO
+src/pySoil.egg-info/SOURCES.txt
+src/pySoil.egg-info/dependency_links.txt
+src/pySoil.egg-info/requires.txt
+src/pySoil.egg-info/top_level.txt
